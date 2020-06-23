@@ -1,0 +1,29 @@
+h3 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+a{
+  color:white;
+}
+.card {
+  height: 110px;
+  width: 280px;
+  margin-bottom: 3%;
+  background: #268991;
+  color:white;
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: #3b9197;
+}
+
+.card:hover a {
+  color: rgb(166, 242, 255);
+}
+
+.card a:hover {
+  color: rgb(166, 242, 255);
+  text-decoration: none;
+}
